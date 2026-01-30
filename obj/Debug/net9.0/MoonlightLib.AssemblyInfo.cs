@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoonlightLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f442b2178843a426fae1632d41cca945acdfcee6")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoonlightLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoonlightLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
