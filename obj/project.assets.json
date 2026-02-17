@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/Desktop/MoonlightLib/MoonlightLib.csproj",
+      "projectUniqueName": "/Users/mac/Desktop/Fold/MoonlightLib/MoonlightLib.csproj",
       "projectName": "MoonlightLib",
-      "projectPath": "/Users/mac/Desktop/MoonlightLib/MoonlightLib.csproj",
+      "projectPath": "/Users/mac/Desktop/Fold/MoonlightLib/MoonlightLib.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/Desktop/MoonlightLib/obj/",
+      "outputPath": "/Users/mac/Desktop/Fold/MoonlightLib/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mac/.nuget/NuGet/NuGet.Config"
