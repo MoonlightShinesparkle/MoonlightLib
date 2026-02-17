@@ -89,3 +89,4 @@ $RECYCLE.BIN/
 
 obj/Debug/*
 bin/Debug/*
+/obj
