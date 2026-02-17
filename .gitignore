@@ -87,6 +87,5 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/linux
 
-obj/Debug/*
-bin/Debug/*
-/obj
+/bin/*
+/obj/*
